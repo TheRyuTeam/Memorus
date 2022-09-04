@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/additionalWindows/SaveAsWindow.qml</file>
+        <file>qml/additionalWindows/SettingsWindow.qml</file>
+        <file>qml/items/ColorPickerButton.qml</file>
+        <file>qml/items/FontFamilyComboBox.qml</file>
+        <file>qml/items/FontStyleButton.qml</file>
+        <file>qml/items/ImageButton.qml</file>
+        <file>qml/items/PopupButton.qml</file>
+        <file>qml/items/TimePicker.qml</file>
+        <file>qml/mainwindow/NoteEditor/NoteEditor.qml</file>
+        <file>qml/mainwindow/NotesNavigation/NotesNavigation.qml</file>
+        <file>qml/mainwindow/LeftBar.qml</file>
+        <file>qml/Memorus.qml</file>
+        <file>resources/img/calendar.png</file>
+        <file>resources/img/center-align.png</file>
+        <file>resources/img/close.png</file>
+        <file>resources/img/dateTime.png</file>
+        <file>resources/img/folder.png</file>
+        <file>resources/img/image.png</file>
+        <file>resources/img/interval.png</file>
+        <file>resources/img/justification.png</file>
+        <file>resources/img/left-align.png</file>
+        <file>resources/img/list.png</file>
+        <file>resources/img/minus.png</file>
+        <file>resources/img/note.png</file>
+        <file>resources/img/notSaved.png</file>
+        <file>resources/img/plus.png</file>
+        <file>resources/img/right-align.png</file>
+        <file>resources/img/saved.png</file>
+        <file>resources/img/search.png</file>
+        <file>resources/img/settings.png</file>
+        <file>resources/img/table.png</file>
+        <file>resources/img/warning.png</file>
+        <file>resources/notes.json</file>
+        <file>resources/style.css</file>
+        <file>qml/mainwindow/NoteEditor/EditToolsArea.qml</file>
+        <file>qml/mainwindow/NoteEditor/NoteEdit.qml</file>
+        <file>qml/items/Style/Style.qml</file>
+    </qresource>
+</RCC>
